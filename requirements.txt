@@ -1,0 +1,9 @@
+transformers[torch]
+datasets
+numpy
+evaluate
+tqdm
+jupyter
+scikit-learn
+selenium
+webdriver-manager
