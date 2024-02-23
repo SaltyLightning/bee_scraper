@@ -1,4 +1,6 @@
-![W 1](https://github.com/SaltyLightning/bee_scraper/assets/23483154/c99ad388-8418-4d3e-8b55-9fe50d84d6e9)
+
+![Wingman Logo 2](https://github.com/SaltyLightning/bee_scraper/assets/23483154/3c849b9a-c42a-4eb9-8947-c4ecbe6e217c)
+
 Wingman is an open-source, cross-platform AI chatbot with an easy-to-use interface for running AI models locally. It runs on Windows (NVIDIA GPUs or CPU-based) and MacOS (Intel and Apple Silicon). You can download models like Llama 2, phi 2 and Mistral from Hugging Face directly in the app.
 
 [Download now!](example.com)
