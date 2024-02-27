@@ -1,5 +1,4 @@
-
-![Wingman Logo- Rooster low res](https://github.com/SaltyLightning/bee_scraper/assets/23483154/8068b2ca-4852-4e8a-ac3f-8882a36a77bc)
+# Wingman
 
 Wingman is an open-source, cross-platform AI chatbot with an easy-to-use interface for running AI models locally. It runs on Windows (Nvidia GPUs or CPU-based) and MacOS (Intel and Apple Silicon). You can download models like Meta’s Llama 2, Mistral and phi 2 from Hugging Face directly in the app.
 Wingman is currently in beta, and the first beta release, Rooster, is available for download now. 
