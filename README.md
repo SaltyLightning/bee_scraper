@@ -20,7 +20,7 @@ Wingman is currently in beta, and the first beta release, Rooster, is available 
 -	Set system prompts and prompt templates so you can talk with characters and get the best results from all models.
 
 
-![4](https://github.com/SaltyLightning/bee_scraper/assets/23483154/4d5d9edf-acb9-478c-95f6-19c93347dc3e)
-![3](https://github.com/SaltyLightning/bee_scraper/assets/23483154/9fddf12c-d723-407f-824a-0f4d4d9ac805)
-![2](https://github.com/SaltyLightning/bee_scraper/assets/23483154/d0f174e9-0425-42e2-bdb1-0c7a21c7cd0f)
 ![1](https://github.com/SaltyLightning/bee_scraper/assets/23483154/3888e991-1943-4d6d-bf79-cb7783896c27)
+![2](https://github.com/SaltyLightning/bee_scraper/assets/23483154/d0f174e9-0425-42e2-bdb1-0c7a21c7cd0f)
+![3](https://github.com/SaltyLightning/bee_scraper/assets/23483154/9fddf12c-d723-407f-824a-0f4d4d9ac805)
+![4](https://github.com/SaltyLightning/bee_scraper/assets/23483154/4d5d9edf-acb9-478c-95f6-19c93347dc3e)
