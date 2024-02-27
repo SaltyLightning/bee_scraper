@@ -1,23 +1,25 @@
 
-![Wingman Logo 2](https://github.com/SaltyLightning/bee_scraper/assets/23483154/3c849b9a-c42a-4eb9-8947-c4ecbe6e217c)
+![Wingman Logo- Rooster low res](https://github.com/SaltyLightning/bee_scraper/assets/23483154/8068b2ca-4852-4e8a-ac3f-8882a36a77bc)
 
-Wingman is an open-source, cross-platform AI chatbot with an easy-to-use interface for running AI models locally. It runs on Windows (NVIDIA GPUs or CPU-based) and MacOS (Intel and Apple Silicon). You can download models like Llama 2, phi 2 and Mistral from Hugging Face directly in the app.
+Wingman is an open-source, cross-platform AI chatbot with an easy-to-use interface for running AI models locally. It runs on Windows (Nvidia GPUs or CPU-based) and MacOS (Intel and Apple Silicon). You can download models like Meta’s Llama 2, Mistral and phi 2 from Hugging Face directly in the app.
+Wingman is currently in beta, and the first beta release, Rooster, is available for download now. 
 
 [Download now!](example.com)
 
-[![Watch the video](https://img.youtube.com/vi/q4oWnovcqsM/0.jpg)](https://youtu.be/q4oWnovcqsM)
+[![Watch the video](https://img.youtube.com/vi/BTFclfbUDso/0.jpg)](https://youtu.be/BTFclfbUDso)
 
 ## Features
-- Easy to use UI with no terminals and no code required.
-- Runs on Windows and Mac (Intel or Apple Silicon).
-- It’s a free, open-source app.
-- Run models like Llama 2, Mistral, Yi, phi, OpenAI, zephyr and more all in the same app with a familiar chatbot interface.
-- Quick access to LLMs from Hugging Face right inside the app. You can even see what’s popular or trending.
-- Quickly swap between models mid-conversation for the best results. 
-- Private by design: the LLMs all run on your machine, so you can keep your chats private.
-- Wingman will evaluate your machine so you can see at a glance what models may or may not run on your hardware. We won’t stop you from trying the best, though!
-- Save and organize your chats into folders so you can find them again later. 
-- Set system prompts and prompt templates so you can talk with characters and get the best results from all models.
+-	Easy to use UI with no terminals and no code required.
+-	Runs on Windows and Mac (Intel or Apple Silicon).
+-	It’s a free, open-source app.
+-	Run Large Language Models (LLMs) like Meta’s Llama 2, Mistral, Yi, Microsoft’s phi 2, OpenAI, zephyr and more all in the same app with a familiar chatbot interface.
+-	Quick access to LLMs from Hugging Face right inside the app. You can even see what’s popular or trending.
+-	Quickly swap between models mid-conversation for the best results. 
+-	Private by design: the LLMs all run on your machine, so you can keep your chats private.
+-	Wingman will evaluate your machine so you can see at a glance what models may or may not run on your hardware. We won’t stop you from trying any of them, though!
+-	Save and organize your chats into folders so you can find them again later. 
+-	Set system prompts and prompt templates so you can talk with characters and get the best results from all models.
+
 
 ![4](https://github.com/SaltyLightning/bee_scraper/assets/23483154/4d5d9edf-acb9-478c-95f6-19c93347dc3e)
 ![3](https://github.com/SaltyLightning/bee_scraper/assets/23483154/9fddf12c-d723-407f-824a-0f4d4d9ac805)
